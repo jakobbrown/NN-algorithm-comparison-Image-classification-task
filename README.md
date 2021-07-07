@@ -4,6 +4,9 @@ In this project, both the multi-layer perceptron (MLP) and the convolutional neu
 
 To reproduce the performance metrics of the best trained networks on the holdout test set: 
 
+- download the contents of the google drive folder here: https://drive.google.com/drive/folders/1baMWx-K5wIKrFIZTR5HC0ib_JL8l_n0I
+- this contains the two best trained networks (pickled), one each for MLP and CNN, which were too large to load to github.
+
 - please open the jupyter notebook entitled ‘test_set_notebook.ipynb’.
 
 - Make sure you have all of the requirements installed, which can be found in requirements.txt.
